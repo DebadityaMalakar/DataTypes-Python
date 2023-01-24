@@ -1,7 +1,7 @@
 # DataTypes-Python
 
 ## Installation
-pip install cdatatypes
+pip install customdatatypes==0.0.1
 
 ## Use
 from Int import Int2 #Importing the module
