@@ -1,5 +1,17 @@
 # DataTypes-Python
 
+## Installation
+pip install cdatatypes
+
+## Use
+from Int import Int2 #Importing the module
+
+a=Int2(2)
+
+a #Result:2
+
+type(a) #Result: <class "Int.Int2.Int2">
+
 ## Matrix
 This should be avoided at all costs and numpy should rather be used
 
