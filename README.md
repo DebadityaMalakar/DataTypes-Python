@@ -1,5 +1,8 @@
 # DataTypes-Python
 
+## Matrix
+This should be avoided at all costs and numpy should rather be used
+
 ## Int
 This datatype is the extension of the original integer datatype in python and has different integer datatypes from the primitive times.
 - Int2(2 Bit Integer)
